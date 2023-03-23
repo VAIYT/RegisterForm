@@ -1,0 +1,214 @@
+.App {
+  text-align: center;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin-top: px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.custom-button  {
+  width: 134px;
+  height: 62px;
+  font-size: 24px;
+  background: black;
+  color: white;
+  border-radius: 7px;
+}
+
+.list-style {
+  display: flex;
+  list-style-type: none;
+  gap: 65px;
+}
+
+.header-info {
+  display: flex;
+  align-items: center;
+  gap: 54px;
+  font-size: 22px;
+
+}
+
+.custom-button:hover {
+  cursor: pointer;
+}
+
+.first-container {
+  display: flex;
+  justify-content: space-between;
+  background-color: #F4F6F5;
+  height: 852px;
+  margin-top: 56px;
+  margin-left: 100px;
+  margin-right: 100px;
+  border-radius: 59px;
+}
+
+.first-container-info {
+  font-family: 'Poppins', sans-serif;
+  align-items: center;
+  padding-top: 77px;
+  padding-left: 72px;
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.first-container-info h1 {
+  text-align: left;
+  font-size: 90px;
+  width: 474px;
+  padding: 0;
+  margin: 0;
+}
+
+.first-container-info p {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.slogan-lower {
+  padding-top: 24px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 32px;
+}
+
+.first-container-banner {
+  width: 820px;
+  height: 684px;
+}
+
+.first-container-banner img{
+  padding-top: 68px;
+}
+
+.shop-button{
+  width: 221px;
+  height: 82px;
+}
+.first-container-button {
+  padding-top: 32px;
+  display: flex;
+  gap: 34px;
+}
+
+.first-container-banner {
+  padding-right: 81px;
+}
+
+.store-logos {
+  display: flex;
+  margin-top: 68px;
+  width: 100%;
+  height: 186px;
+  background-color: #EBD96B;
+  align-items: center;
+}
+
+.store-logos img {
+  width: 120px;
+  height: 70px;
+}
+
+.brands {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  gap: 160px;
+}
+
+.section-second {
+  display: flex;
+  flex-direction: column;
+  height: 852px;
+  margin-top: 56px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.section-second h1 {
+  text-align: left;
+  font-size: 48px;
+  font-family: 'Poppins', sans-serif;
+}
+.models {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 64px;
+}
+
+.models-lower {
+  display: flex;
+  justify-content: space-between;
+  text-align: left;
+  align-items: center;
+  padding-top: 28px;
+}
+
+.models-description h3{
+  color: #191919;
+  padding: 0;
+  margin: 0;
+  margin-bottom: 7px;
+}
+
+.models-description p {
+  color: #7F7F7F;
+  padding: 0;
+  margin: 0;
+}
+
+.arrow img:hover{
+  cursor: pointer;
+}
+
+.section-three {
+  display: flex;
+  background: rgb(224,195,64);
+  background: linear-gradient(7deg, rgba(224,195,64,1) 0%, rgba(223,194,62,1) 7%, rgba(225,196,65,1) 13%, rgba(227,198,67,1) 17%, rgba(227,198,67,1) 18%, rgba(227,198,67,1) 19%, rgba(228,199,68,1) 21%, rgba(230,201,70,1) 26%, rgba(232,203,71,1) 30%, rgba(234,205,72,1) 34%, rgba(237,208,74,1) 40%, rgba(240,211,77,1) 48%, rgba(243,214,79,1) 55%, rgba(246,218,82,1) 63%, rgba(247,219,83,1) 71%, rgba(249,221,85,1) 77%, rgba(249,223,86,1) 85%, rgba(250,225,87,1) 92%, rgba(249,223,86,1) 100%);
+  margin-top: 330px;
+  width: 100%;
+  height: 100%;
+}
+
+.sale-info {
+  display: flex;
+  flex-direction: column;
+}
+.sale-info h1 {
+  font-size: 112px;
+  font-family: 'Poppins', black, sans-serif;
+  text-align: left;
+  width: 80%;
+  padding-top: 33px;
+}
+
+.sale-info p {
+  font-size: 36px;
+  font-family: 'Poppins', sans-serif;
+  width: 75%;
+  text-align: left;
+  padding: 0;
+  margin: 0;
+}
+.sale-info h3 {
+  text-align: left;
+  font-size: 36px;
+  font-family: 'Poppins', sans-serif;
+  padding-top: 41px;
+  margin: 0;
+}
+
+.sale-button {
+  width: 266px;
+  height: 96px;
+  align-items: center;
+  margin-top: 51px;
+
+}
+
